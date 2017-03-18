@@ -1,0 +1,6 @@
+{
+  "name": "gpm-empty-repository-for-test",
+  "hooks":{
+    "add": "npm install"
+  }
+}
